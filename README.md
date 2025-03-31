@@ -1,2 +1,1 @@
-# Tugas-Sistem-Basis-Data-
-Membuat tabel obat
+# Tugas-Sistem-Basis-Data- 
